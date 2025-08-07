@@ -13,6 +13,8 @@ additional resources, please navigate to the official web site at
 official YouTube channel
 [Microsoft365DSC](https://www.youtube.com/channel/UCveScabVT6pxzqYgGRu17iw).
 
+Testing Microsoft 365 lab automation for Zscaler integration and Purview DLP.
+
 ## Branches
 
 ### master
